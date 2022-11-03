@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    @import url(//db.onlinewebfonts.com/c/827d075b1538829cc0db75696e4d5fa2?family=Speedee);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.topline{
+    border-top: 2px solid #dddada75;
+}
+.menu{
+    margin-left: 367px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.logo{
+    width: 108px;
+    height: 100%;
+    padding: 8px;
+}
+.tline,.tline2{
+    position: relative;
+    margin-left: 57px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+section{
+    margin-left: 20px;
+    font-size: 14px;
+}
+.sear{
+   margin-left: 300px;
+}
+.order{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #ffbc0d;
+   
+}
+.tline{
+    padding-top: 18px;
+}
+.tline2 section{
+    font-weight: 600;
+    font-size: 16px;
+}
+.remain{
+    margin-left: 374px;
+    margin-top: 100px;
+}
+.main img{
+    width: 748px;
+    height:333px ;
+    padding:15px;
+}
+.remain{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+
+}
+.abbr{
+    padding: 15px;
+    width: 407px;
+    height: 422px;
+}
+.remain p{
+    margin-top: 15px;
+    font-size: 18px;
+}
+.remain footer{
+    margin-top: 15px;
+    font-size: 10px;
+}
+.remain button{
+    margin-top: 15px;
+    background-color: #ffbc0d;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+.foot{
+    text-align: left;
+    margin-left: 367px;
+    width: 75%;
+    font-size: 14px;
+}
+.social{
+    margin-left:347px ;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #29292952 ;
+    width: 1260px;
+}
+.foots{
+    padding-top: 40px;
+    display: flex;
+    margin-left:347px ;
+    flex-direction: row;
+    padding-bottom: 100px;
+}
+.appl{
+    margin-left:550px ;
+}
+.f1{
+    width: 753px;
+    display: flex;
+    flex-wrap:wrap;
+    font-size: 20px;
+}
+select{
+    border-color: transparent;
+}
+.f2{
+    margin-left: 100px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    
+}
+.f2 img{
+    width: 30px;
+}
+.f1 section{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+button:hover,section:hover{
+    transform: scale(1.1);
+    transition: 1.4s;
+}
+.loc{
+    text-decoration: underline;
+    color: rgb(37, 37, 119);
+}
