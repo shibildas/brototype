@@ -138,3 +138,6 @@ button:hover,section:hover{
     text-decoration: underline;
     color: rgb(37, 37, 119);
 }
+.fa-map-marker-alt{
+    color: rgb(156, 19, 1);
+}
